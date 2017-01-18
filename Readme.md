@@ -14,7 +14,7 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
-Мир всем!
+Мир всем! - Миру мир!
 
 Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
 
